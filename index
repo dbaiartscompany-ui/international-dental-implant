@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>International Dental Implant Center | Surgical Excellence in Implant Dentistry · Istanbul</title>
+<meta name="description" content="Supervised dental implant care for patients from the Northeast United States. Full-arch, All-on-4, and single implant treatment at Istanbul's accredited partner clinics, with board-certified surgical oversight and integrated US follow-up care.">
+<meta name="keywords" content="dental implants istanbul, all on 4 turkey, full arch implants abroad, dental tourism new york, zygomatic implants istanbul, international dental implant">
+<meta name="author" content="International Dental Implant Center">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://internationaldentalimplant.com/">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://internationaldentalimplant.com/">
+<meta property="og:title" content="International Dental Implant Center | Surgical Excellence in Istanbul">
+<meta property="og:description" content="Supervised dental implant care for Northeast US patients. Accredited Istanbul partner clinics. Integrated US follow-up care.">
+<meta property="og:locale" content="en_US">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="International Dental Implant Center">
+<meta name="twitter:description" content="Surgical excellence in implant dentistry. Istanbul's accredited partner clinics, US follow-up care.">
+
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%230A1628'/><text x='50' y='68' font-size='52' font-family='Georgia' fill='%23B08D57' text-anchor='middle' font-weight='600'>I</text></svg>">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "International Dental Implant Center",
+  "url": "https://internationaldentalimplant.com",
+  "description": "Dental care coordination service connecting patients from the Northeast United States with accredited implant clinics in Istanbul, Türkiye, under board-certified surgical oversight.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Yeşilköy",
+    "addressRegion": "Istanbul",
+    "addressCountry": "TR"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+90-XXX-XXX-XXXX",
+    "contactType": "patient coordination",
+    "availableLanguage": ["English", "Turkish"],
+    "areaServed": ["US", "TR"]
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Supervised Dental Implant Care Coordination",
+  "provider": {"@type": "Organization", "name": "International Dental Implant Center"},
+  "areaServed": [
+    {"@type": "State", "name": "New York"},
+    {"@type": "State", "name": "Massachusetts"},
+    {"@type": "State", "name": "Pennsylvania"},
+    {"@type": "State", "name": "New Jersey"},
+    {"@type": "State", "name": "Connecticut"},
+    {"@type": "State", "name": "Illinois"}
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Implant Dentistry Services",
+    "itemListElement": [
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "All-on-4 Dental Implants"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Full-Arch Implant Reconstruction"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Single Tooth Implant"}}
+    ]
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "How is clinical quality maintained across the partner network?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Every patient case is personally reviewed by our Chief Medical Advisor, a Turkish board-certified Oral and Maxillofacial Surgeon. Partner clinics are evaluated on surgical outcomes, material standards, sterilization protocols, and continuity of communication. We do not coordinate cases with clinics outside our accredited network."}},
+    {"@type": "Question", "name": "What is the typical treatment timeline for a full-arch case?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Most full-arch and All-on-4 cases are completed across two visits. The first visit, approximately five to seven days, includes surgical placement and temporary prosthesis. The second visit, scheduled four to six months later following osseointegration, delivers the final prosthetic restoration."}},
+    {"@type": "Question", "name": "How is post-operative care managed after returning to the United States?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Through our integrated continuity-of-care program, patients are connected with US-based partner practices in the Northeast for post-operative evaluation, routine follow-up, and complication management if required."}},
+    {"@type": "Question", "name": "Which implant systems and materials are used?",
+     "acceptedAnswer": {"@type": "Answer", "text": "Our partner clinics use internationally recognized implant systems, including premium brands such as Straumann, Nobel Biocare, and equivalent manufacturers with full FDA and CE clearance. Prosthetic restorations are full-contour zirconia or equivalent materials selected based on clinical indication."}}
+  ]
+}
+</script>
+
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --navy: #0A1628; --navy-2: #12223A; --navy-3: #1E3050;
+    --bronze: #B08D57; --bronze-2: #C4A068;
+    --cream: #F7F4EC; --paper: #FBF9F4;
+    --ink: #1A1A1A; --muted: #5A6274;
+    --line: #E5E1D5; --line-2: #D9D3C2;
+    --white: #FFFFFF;
+  }
+  html { scroll-behavior: smooth; }
+  body { font-family: 'Inter', sans-serif; color: var(--ink); line-height: 1.65; background: var(--paper); font-weight: 400; -webkit-font-smoothing: antialiased; }
+  h1, h2, h3, h4, h5 { font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 500; color: var(--navy); line-height: 1.15; letter-spacing: -0.01em; }
+  a { color: inherit; text-decoration: none; }
+  .container { max-width: 1200px; margin: 0 auto; padding: 0 32px; }
+
+  .eyebrow { font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 600; letter-spacing: 2.5px; text-transform: uppercase; color: var(--bronze); }
+
+  .announce { background: var(--navy); color: rgba(255,255,255,0.85); padding: 10px 24px; text-align: center; font-size: 12px; letter-spacing: 0.5px; border-bottom: 1px solid var(--bronze); }
+  .announce span { color: var(--bronze-2); font-weight: 500; }
+
+  header { background: var(--paper); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 100; }
+  .header-inner { display: flex; justify-content: space-between; align-items: center; padding: 22px 32px; max-width: 1280px; margin: 0 auto; }
+  .logo { font-family: 'Cormorant Garamond', serif; font-size: 22px; font-weight: 600; color: var(--navy); letter-spacing: 0.2px; line-height: 1.1; }
+  .logo .mark { color: var(--bronze); font-weight: 600; }
+  .logo .sub { display: block; font-family: 'Inter', sans-serif; font-size: 9px; letter-spacing: 3px; text-transform: uppercase; color: var(--muted); font-weight: 500; margin-top: 2px; }
+
+  nav ul { display: flex; gap: 36px; list-style: none; align-items: center; }
+  nav a { font-size: 13px; font-weight: 500; color: var(--navy); letter-spacing: 0.3px; transition: color 0.2s; }
+  nav a:hover { color: var(--bronze); }
+  .nav-cta { border: 1px solid var(--navy); color: var(--navy) !important; padding: 10px 20px; font-size: 12px !important; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 600 !important; transition: all 0.2s; }
+  .nav-cta:hover { background: var(--navy); color: var(--white) !important; }
+  .menu-toggle { display: none; background: none; border: none; font-size: 22px; cursor: pointer; color: var(--navy); }
+
+  .hero { background: var(--navy); color: var(--white); padding: 120px 32px 110px; position: relative; overflow: hidden; border-bottom: 1px solid var(--bronze); }
+  .hero::before { content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(ellipse at 80% 20%, rgba(176, 141, 87, 0.10), transparent 55%), radial-gradient(ellipse at 10% 90%, rgba(176, 141, 87, 0.06), transparent 50%); }
+  .hero-inner { max-width: 960px; margin: 0 auto; position: relative; text-align: center; }
+  .hero .eyebrow { color: var(--bronze-2); margin-bottom: 24px; display: inline-block; }
+  .hero h1 { color: var(--white); font-size: 62px; font-weight: 500; margin-bottom: 28px; letter-spacing: -0.015em; line-height: 1.1; }
+  .hero .rule { width: 60px; height: 1px; background: var(--bronze); margin: 0 auto 28px; }
+  .hero p.lead { font-size: 18px; color: rgba(255,255,255,0.78); max-width: 720px; margin: 0 auto 44px; line-height: 1.65; font-weight: 300; }
+  .hero-ctas { display: flex; gap: 18px; justify-content: center; flex-wrap: wrap; }
+
+  .btn-primary { background: var(--bronze); color: var(--navy); padding: 16px 36px; font-weight: 600; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; border: 1px solid var(--bronze); cursor: pointer; transition: all 0.25s; display: inline-block; font-family: 'Inter', sans-serif; }
+  .btn-primary:hover { background: var(--bronze-2); border-color: var(--bronze-2); }
+  .btn-secondary { background: transparent; color: var(--white); padding: 16px 36px; font-weight: 500; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; border: 1px solid rgba(255,255,255,0.35); cursor: pointer; transition: all 0.25s; display: inline-block; font-family: 'Inter', sans-serif; }
+  .btn-secondary:hover { border-color: var(--bronze); color: var(--bronze-2); }
+  .btn-navy { background: var(--navy); color: var(--white); padding: 16px 36px; font-weight: 600; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; border: 1px solid var(--navy); cursor: pointer; transition: all 0.25s; display: inline-block; font-family: 'Inter', sans-serif; }
+  .btn-navy:hover { background: var(--navy-2); }
+
+  .pillars { background: var(--paper); border-bottom: 1px solid var(--line); padding: 48px 32px; }
+  .pillars-inner { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 40px; }
+  .pillar { text-align: center; padding: 0 10px; }
+  .pillar .sym { font-family: 'Cormorant Garamond', serif; font-size: 32px; color: var(--bronze); font-weight: 600; display: block; margin-bottom: 8px; letter-spacing: 4px; }
+  .pillar h4 { font-size: 16px; font-family: 'Inter', sans-serif; font-weight: 600; color: var(--navy); margin-bottom: 6px; letter-spacing: 0.3px; }
+  .pillar p { font-size: 13px; color: var(--muted); line-height: 1.5; }
+
+  section.content { padding: 120px 32px; }
+  section.content.alt { background: var(--cream); }
+  section.content.navy { background: var(--navy); color: var(--white); }
+  section.content.navy h2, section.content.navy h3, section.content.navy h4 { color: var(--white); }
+
+  .section-head { text-align: center; max-width: 760px; margin: 0 auto 72px; }
+  .section-head .eyebrow { margin-bottom: 20px; display: inline-block; }
+  .section-head h2 { font-size: 46px; margin-bottom: 20px; font-weight: 500; }
+  .section-head .rule { width: 50px; height: 1px; background: var(--bronze); margin: 0 auto 24px; }
+  .section-head p { font-size: 17px; color: var(--muted); line-height: 1.7; font-weight: 300; }
+  section.content.navy .section-head p { color: rgba(255,255,255,0.72); }
+
+  .philosophy { max-width: 820px; margin: 0 auto; text-align: center; }
+  .philosophy p { font-family: 'Cormorant Garamond', serif; font-size: 24px; line-height: 1.6; color: var(--navy); font-weight: 400; font-style: italic; }
+  .philosophy .signature { margin-top: 36px; font-family: 'Inter', sans-serif; font-size: 12px; font-style: normal; letter-spacing: 2px; text-transform: uppercase; color: var(--bronze); font-weight: 600; }
+
+  .treatments { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; max-width: 1200px; margin: 0 auto; border-top: 1px solid var(--line-2); border-bottom: 1px solid var(--line-2); }
+  .tx { padding: 56px 44px; border-right: 1px solid var(--line-2); background: var(--paper); transition: background 0.3s; }
+  .tx:last-child { border-right: none; }
+  .tx:hover { background: var(--cream); }
+  .tx .num { font-family: 'Cormorant Garamond', serif; font-size: 14px; letter-spacing: 4px; color: var(--bronze); margin-bottom: 24px; font-weight: 600; }
+  .tx h3 { font-size: 28px; margin-bottom: 18px; font-weight: 500; }
+  .tx p.desc { font-size: 15px; color: var(--muted); line-height: 1.7; margin-bottom: 28px; }
+  .tx dl { margin-bottom: 32px; }
+  .tx dl div { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid var(--line); font-size: 13px; }
+  .tx dl div:last-child { border-bottom: none; }
+  .tx dl dt { color: var(--muted); font-weight: 400; }
+  .tx dl dd { color: var(--navy); font-weight: 500; text-align: right; }
+  .tx .more { color: var(--navy); font-size: 12px; letter-spacing: 2px; text-transform: uppercase; font-weight: 600; padding-bottom: 3px; border-bottom: 1px solid var(--bronze); transition: color 0.2s; }
+  .tx .more:hover { color: var(--bronze); }
+
+  .leadership { display: grid; grid-template-columns: 1fr 1.15fr; gap: 80px; align-items: center; max-width: 1100px; margin: 0 auto; }
+  .portrait { aspect-ratio: 4/5; background: linear-gradient(160deg, var(--navy) 0%, var(--navy-3) 100%); position: relative; overflow: hidden; display: flex; align-items: center; justify-content: center; }
+  .portrait::before { content: ''; position: absolute; inset: 20px; border: 1px solid rgba(176, 141, 87, 0.3); }
+  .portrait .mono { font-family: 'Cormorant Garamond', serif; font-size: 72px; color: var(--bronze); letter-spacing: 6px; font-weight: 500; }
+  .portrait .caption { position: absolute; bottom: 36px; left: 0; right: 0; text-align: center; color: rgba(255,255,255,0.4); font-size: 10px; letter-spacing: 2px; text-transform: uppercase; }
+
+  .leadership h2 { font-size: 44px; margin-bottom: 12px; font-weight: 500; }
+  .leadership .title-line { font-size: 13px; letter-spacing: 2px; text-transform: uppercase; color: var(--bronze); margin-bottom: 32px; font-weight: 600; }
+  .leadership p { color: var(--muted); font-size: 16px; margin-bottom: 20px; line-height: 1.75; font-weight: 300; }
+  .credentials { margin-top: 36px; padding-top: 32px; border-top: 1px solid var(--line-2); }
+  .credentials h4 { font-family: 'Inter', sans-serif; font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase; color: var(--bronze); margin-bottom: 18px; font-weight: 600; }
+  .credentials ul { list-style: none; }
+  .credentials ul li { padding: 12px 0; font-size: 14px; color: var(--navy); border-bottom: 1px solid var(--line); font-weight: 400; }
+  .credentials ul li:last-child { border-bottom: none; }
+  .credentials ul li::before { content: '—'; color: var(--bronze); margin-right: 14px; }
+
+  .standards-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 60px; max-width: 1100px; margin: 0 auto; }
+  .standard { text-align: center; }
+  .standard .num { font-family: 'Cormorant Garamond', serif; font-size: 54px; color: var(--bronze); font-weight: 500; line-height: 1; margin-bottom: 24px; }
+  .standard h3 { font-size: 22px; margin-bottom: 14px; font-weight: 500; color: var(--white); }
+  .standard p { font-size: 14px; color: rgba(255,255,255,0.7); line-height: 1.7; font-weight: 300; }
+
+  .standards-list { max-width: 900px; margin: 0 auto; }
+  .sl-item { display: grid; grid-template-columns: 180px 1fr; gap: 40px; padding: 32px 0; border-bottom: 1px solid var(--line-2); }
+  .sl-item:last-child { border-bottom: none; }
+  .sl-item .label { font-family: 'Inter', sans-serif; font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase; color: var(--bronze); font-weight: 600; padding-top: 4px; }
+  .sl-item h4 { font-size: 22px; margin-bottom: 10px; font-weight: 500; font-family: 'Cormorant Garamond', serif; }
+  .sl-item p { font-size: 15px; color: var(--muted); line-height: 1.75; font-weight: 300; }
+
+  .journey { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; position: relative; }
+  .journey::before { content: ''; position: absolute; top: 34px; left: 10%; right: 10%; height: 1px; background: var(--bronze); opacity: 0.3; z-index: 0; }
+  .step { position: relative; z-index: 1; text-align: center; }
+  .step .dot { width: 16px; height: 16px; border-radius: 50%; background: var(--paper); border: 2px solid var(--bronze); margin: 24px auto 20px; }
+  .step .num { font-family: 'Cormorant Garamond', serif; font-size: 14px; letter-spacing: 3px; color: var(--bronze); font-weight: 600; }
+  .step h4 { font-family: 'Inter', sans-serif; font-size: 14px; font-weight: 600; color: var(--navy); margin-bottom: 10px; letter-spacing: 0.3px; }
+  .step p { font-size: 12.5px; color: var(--muted); line-height: 1.6; padding: 0 8px; font-weight: 300; }
+
+  .continuity { display: grid; grid-template-columns: 1fr 1fr; gap: 64px; max-width: 1100px; margin: 0 auto; align-items: start; }
+  .continuity-side h3 { font-size: 30px; margin-bottom: 20px; font-weight: 500; }
+  .continuity-side p { font-size: 15px; color: var(--muted); line-height: 1.75; margin-bottom: 16px; font-weight: 300; }
+  .continuity-side .loc { display: inline-block; padding: 4px 12px; background: var(--cream); color: var(--navy); font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 600; margin-bottom: 16px; border: 1px solid var(--line-2); }
+
+  .value-stmt { background: var(--navy); color: var(--white); padding: 100px 32px; text-align: center; }
+  .value-stmt-inner { max-width: 780px; margin: 0 auto; }
+  .value-stmt .rule { width: 50px; height: 1px; background: var(--bronze); margin: 0 auto 28px; }
+  .value-stmt blockquote { font-family: 'Cormorant Garamond', serif; font-size: 32px; line-height: 1.45; color: var(--white); font-weight: 400; font-style: italic; margin-bottom: 28px; }
+  .value-stmt blockquote::before { content: '"'; color: var(--bronze); }
+  .value-stmt blockquote::after { content: '"'; color: var(--bronze); }
+  .value-stmt cite { font-family: 'Inter', sans-serif; font-size: 11px; letter-spacing: 3px; text-transform: uppercase; color: var(--bronze-2); font-style: normal; font-weight: 500; }
+
+  .consult-wrap { max-width: 720px; margin: 0 auto; background: var(--white); padding: 56px 48px; border: 1px solid var(--line-2); }
+  .consult-wrap h2 { text-align: center; font-size: 36px; margin-bottom: 12px; }
+  .consult-wrap .rule { width: 40px; height: 1px; background: var(--bronze); margin: 0 auto 20px; }
+  .consult-wrap p.sub { text-align: center; color: var(--muted); font-size: 15px; margin-bottom: 40px; font-weight: 300; }
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
+  .form-group { margin-bottom: 20px; }
+  .form-group label { display: block; font-size: 11px; font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase; color: var(--navy); margin-bottom: 8px; }
+  .form-group input, .form-group select, .form-group textarea { width: 100%; padding: 13px 16px; border: 1px solid var(--line-2); background: var(--paper); font-size: 14px; font-family: 'Inter', sans-serif; color: var(--navy); transition: border-color 0.2s, background 0.2s; }
+  .form-group input:focus, .form-group select:focus, .form-group textarea:focus { outline: none; border-color: var(--bronze); background: var(--white); }
+  .form-group textarea { resize: vertical; min-height: 96px; }
+  .form-submit { width: 100%; margin-top: 12px; }
+  .form-note { font-size: 12px; color: var(--muted); margin-top: 20px; line-height: 1.6; text-align: center; font-weight: 300; }
+  .form-success, .form-error { display: none; padding: 14px; font-size: 13px; margin-top: 16px; text-align: center; letter-spacing: 0.3px; }
+  .form-success { background: var(--cream); color: var(--navy); border: 1px solid var(--bronze); }
+  .form-error { background: #FEEEEE; color: #8B2020; border: 1px solid #E5B5B5; }
+
+  .faq-list { max-width: 860px; margin: 0 auto; }
+  .faq-item { border-bottom: 1px solid var(--line-2); }
+  .faq-q { padding: 28px 0; cursor: pointer; display: flex; justify-content: space-between; align-items: center; gap: 20px; font-family: 'Cormorant Garamond', serif; font-size: 22px; font-weight: 500; color: var(--navy); transition: color 0.2s; }
+  .faq-q:hover { color: var(--bronze); }
+  .faq-q::after { content: '+'; font-family: 'Inter', sans-serif; font-size: 22px; color: var(--bronze); transition: transform 0.3s; font-weight: 300; flex-shrink: 0; }
+  .faq-item.open .faq-q::after { transform: rotate(45deg); }
+  .faq-a { max-height: 0; overflow: hidden; transition: max-height 0.35s ease, padding 0.35s ease; color: var(--muted); font-size: 15px; line-height: 1.75; padding: 0; font-weight: 300; }
+  .faq-item.open .faq-a { max-height: 500px; padding: 0 0 28px; }
+
+  footer { background: var(--navy); color: rgba(255,255,255,0.7); padding: 80px 32px 32px; }
+  .footer-inner { max-width: 1200px; margin: 0 auto; }
+  .footer-top { text-align: center; padding-bottom: 56px; border-bottom: 1px solid rgba(255,255,255,0.12); margin-bottom: 56px; }
+  .footer-brand { font-family: 'Cormorant Garamond', serif; color: var(--white); font-size: 28px; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 6px; }
+  .footer-brand .mark { color: var(--bronze); }
+  .footer-sub { font-size: 10px; letter-spacing: 4px; text-transform: uppercase; color: rgba(255,255,255,0.5); font-weight: 500; }
+  .footer-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 48px; margin-bottom: 56px; }
+  .footer-col h4 { font-family: 'Inter', sans-serif; color: var(--bronze-2); font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase; margin-bottom: 20px; font-weight: 600; }
+  .footer-col p { font-size: 13px; line-height: 1.75; margin-bottom: 10px; font-weight: 300; }
+  .footer-col ul { list-style: none; }
+  .footer-col ul li { margin-bottom: 12px; }
+  .footer-col a { font-size: 13px; color: rgba(255,255,255,0.7); transition: color 0.2s; font-weight: 300; }
+  .footer-col a:hover { color: var(--bronze-2); }
+  .footer-disclaimer { padding-top: 32px; border-top: 1px solid rgba(255,255,255,0.1); font-size: 11px; line-height: 1.8; color: rgba(255,255,255,0.45); font-weight: 300; }
+  .footer-disclaimer strong { color: rgba(255,255,255,0.7); font-weight: 500; }
+  .footer-disclaimer p { margin-bottom: 14px; }
+  .footer-bottom { margin-top: 28px; display: flex; justify-content: space-between; font-size: 11px; color: rgba(255,255,255,0.4); letter-spacing: 0.5px; }
+
+  @media (max-width: 1000px) { .hero h1 { font-size: 44px; } .section-head h2 { font-size: 36px; } }
+  @media (max-width: 860px) {
+    nav ul { display: none; position: absolute; top: 72px; left: 0; right: 0; background: var(--paper); flex-direction: column; padding: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); gap: 0; border-top: 1px solid var(--line); }
+    nav ul.open { display: flex; }
+    nav ul li { padding: 14px 0; border-bottom: 1px solid var(--line); width: 100%; text-align: left; }
+    nav ul li:last-child { border-bottom: none; margin-top: 8px; }
+    .menu-toggle { display: block; }
+    .hero { padding: 72px 24px 80px; }
+    .hero h1 { font-size: 34px; }
+    .hero p.lead { font-size: 16px; }
+    .pillars-inner { grid-template-columns: 1fr 1fr; gap: 32px; }
+    section.content { padding: 72px 24px; }
+    .section-head h2 { font-size: 28px; }
+    .section-head p { font-size: 15px; }
+    .treatments { grid-template-columns: 1fr; border: none; }
+    .tx { border-right: none; border-bottom: 1px solid var(--line-2); padding: 40px 24px; }
+    .leadership { grid-template-columns: 1fr; gap: 40px; }
+    .portrait { max-width: 320px; margin: 0 auto; }
+    .leadership h2 { font-size: 32px; }
+    .philosophy p { font-size: 19px; }
+    .standards-grid { grid-template-columns: 1fr; gap: 40px; }
+    .sl-item { grid-template-columns: 1fr; gap: 8px; padding: 24px 0; }
+    .journey { grid-template-columns: 1fr 1fr; gap: 32px 20px; }
+    .journey::before { display: none; }
+    .continuity { grid-template-columns: 1fr; gap: 40px; }
+    .value-stmt blockquote { font-size: 22px; }
+    .consult-wrap { padding: 40px 24px; }
+    .form-row { grid-template-columns: 1fr; gap: 0; }
+    .faq-q { font-size: 18px; }
+    .footer-grid { grid-template-columns: 1fr 1fr; gap: 32px; }
+    .footer-bottom { flex-direction: column; gap: 12px; text-align: center; }
+  }
+  @media (max-width: 480px) {
+    .hero h1 { font-size: 28px; }
+    .section-head h2 { font-size: 26px; }
+    .pillars-inner { grid-template-columns: 1fr; }
+    .journey { grid-template-columns: 1fr; }
+    .footer-grid { grid-template-columns: 1fr; }
+    .hero-ctas { flex-direction: column; align-items: stretch; }
+    .btn-primary, .btn-secondary, .btn-navy { width: 100%; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<div class="announce">
+  Serving patients across <span>New York · Boston · Philadelphia · Chicago</span> and the Northeast United States
+</div>
+
+<header>
+  <div class="header-inner">
+    <a href="/" class="logo">
+      International Dental <span class="mark">Implant Center</span>
+      <span class="sub">Est. Istanbul</span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Menu">☰</button>
+    <nav>
+      <ul id="navMenu">
+        <li><a href="/all-on-4.html">All-on-4</a></li>
+        <li><a href="/full-arch.html">Full-Arch</a></li>
+        <li><a href="/single-implant.html">Single Implant</a></li>
+        <li><a href="/about.html">Clinical Leadership</a></li>
+        <li><a href="/process.html">Process</a></li>
+        <li><a href="/for-us-practices.html">For US Practices</a></li>
+        <li><a href="#consultation" class="nav-cta">Clinical Consultation</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <span class="eyebrow">Istanbul · Supervised Implant Care</span>
+    <h1>Surgical Excellence in Implant Dentistry,<br>for Patients Who Expect More</h1>
+    <div class="rule"></div>
+    <p class="lead">A coordinated standard of care for patients from the Northeast United States — bringing together accredited Istanbul partner clinics, board-certified surgical oversight, and integrated US follow-up.</p>
+    <div class="hero-ctas">
+      <a href="#consultation" class="btn-primary">Begin Clinical Consultation</a>
+      <a href="/process.html" class="btn-secondary">The Patient Journey</a>
+    </div>
+  </div>
+</section>
+
+<section class="pillars">
+  <div class="pillars-inner">
+    <div class="pillar">
+      <span class="sym">I</span>
+      <h4>Supervised Care</h4>
+      <p>Every case personally reviewed by our Chief Medical Advisor</p>
+    </div>
+    <div class="pillar">
+      <span class="sym">II</span>
+      <h4>Accredited Network</h4>
+      <p>A curated selection of Istanbul's leading implant centers</p>
+    </div>
+    <div class="pillar">
+      <span class="sym">III</span>
+      <h4>Premium Materials</h4>
+      <p>Straumann, Nobel Biocare, and full-contour zirconia only</p>
+    </div>
+    <div class="pillar">
+      <span class="sym">IV</span>
+      <h4>US Follow-Up</h4>
+      <p>Continuity of care through our US partner practice network</p>
+    </div>
+  </div>
+</section>
+
+<section class="content">
+  <div class="philosophy">
+    <p>International implant care should not mean compromise. It should mean the same clinical rigor, the same material standards, and the same continuity of oversight — delivered through a better-designed journey.</p>
+    <div class="signature">— Clinical Leadership, Istanbul</div>
+  </div>
+</section>
+
+<section class="content alt">
+  <div class="section-head">
+    <span class="eyebrow">Core Treatments</span>
+    <h2>Implant Dentistry, Delivered with Precision</h2>
+    <div class="rule"></div>
+    <p>Each treatment plan is reviewed by our Chief Medical Advisor before a partner clinic is assigned, ensuring the appropriate surgical approach for your specific clinical presentation.</p>
+  </div>
+
+  <div class="treatments">
+    <div class="tx">
+      <div class="num">I · ALL-ON-4</div>
+      <h3>All-on-4 Implant System</h3>
+      <p class="desc">A full arch of permanent teeth supported by four strategically angled implants. Refined for patients seeking a definitive solution with a carefully managed surgical timeline.</p>
+      <dl>
+        <div><dt>Approach</dt><dd>Fixed, non-removable</dd></div>
+        <div><dt>Implant System</dt><dd>Premium, FDA-cleared</dd></div>
+        <div><dt>Prosthesis</dt><dd>Full-contour zirconia</dd></div>
+        <div><dt>Timeline</dt><dd>Two visits, 4–6 months apart</dd></div>
+      </dl>
+      <a href="/all-on-4.html" class="more">Clinical Details</a>
+    </div>
+
+    <div class="tx">
+      <div class="num">II · FULL-ARCH</div>
+      <h3>Full-Arch Reconstruction</h3>
+      <p class="desc">Advanced rehabilitation for complex cases, including patients with significant bone loss, prior failed implants, or requirements for zygomatic or tilted implant protocols.</p>
+      <dl>
+        <div><dt>Approach</dt><dd>6–8 implants per arch</dd></div>
+        <div><dt>Advanced Options</dt><dd>Zygomatic, bone graft</dd></div>
+        <div><dt>Prosthesis</dt><dd>Zirconia or hybrid</dd></div>
+        <div><dt>Timeline</dt><dd>Two visits, clinical review required</dd></div>
+      </dl>
+      <a href="/full-arch.html" class="more">Clinical Details</a>
+    </div>
+
+    <div class="tx">
+      <div class="num">III · SINGLE</div>
+      <h3>Single Tooth Implant</h3>
+      <p class="desc">Replacement of a single missing tooth with a dedicated implant and restoration. A minimally disruptive, lifetime-oriented solution designed for long-term function and aesthetics.</p>
+      <dl>
+        <div><dt>Approach</dt><dd>Single-site surgical</dd></div>
+        <div><dt>Implant System</dt><dd>Titanium, premium grade</dd></div>
+        <div><dt>Restoration</dt><dd>Zirconia or ceramic crown</dd></div>
+        <div><dt>Timeline</dt><dd>One or two visits possible</dd></div>
+      </dl>
+      <a href="/single-implant.html" class="more">Clinical Details</a>
+    </div>
+  </div>
+</section>
+
+<section class="content">
+  <div class="leadership">
+    <div class="portrait">
+      <span class="mono">IDIC</span>
+      <span class="caption">Portrait to be added</span>
+    </div>
+    <div>
+      <span class="eyebrow">Clinical Leadership</span>
+      <h2>Chief Medical Advisor &amp; Clinical Director</h2>
+      <div class="title-line">Specialist in Oral &amp; Maxillofacial Surgery</div>
+      <p>Our Chief Medical Advisor leads the clinical review of every case coordinated through International Dental Implant Center. With thirteen years in dental practice and a decade focused on oral and maxillofacial surgery, she personally oversees treatment planning and maintains the clinical standards of the partner network.</p>
+      <p>Her role ensures that every patient receives a plan grounded in surgical realism and evidence-based protocol — rather than commercial convenience. Patients are assigned to a partner clinic only after her review confirms clinical suitability and approach.</p>
+      <div class="credentials">
+        <h4>Credentials &amp; Expertise</h4>
+        <ul>
+          <li>Doctor of Dental Surgery — Yeditepe University, Istanbul</li>
+          <li>Specialist in Oral &amp; Maxillofacial Surgery (Turkish Board Certified)</li>
+          <li>Ten years of dedicated maxillofacial surgical practice</li>
+          <li>Implantology, bone reconstruction, and full-arch rehabilitation</li>
+          <li>Clinical oversight of the partner clinic network</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="content navy">
+  <div class="section-head">
+    <span class="eyebrow" style="color: var(--bronze-2);">Case Review Process</span>
+    <h2>How Every Patient Plan Is Prepared</h2>
+    <div class="rule"></div>
+    <p>No patient is assigned to a clinic without a structured internal review. This is what makes coordinated care different from referral.</p>
+  </div>
+
+  <div class="standards-grid">
+    <div class="standard">
+      <div class="num">I</div>
+      <h3>Records Review</h3>
+      <p>Coordinators collect your panoramic imaging, CBCT scans where available, medical history, and prior treatment records. All materials are prepared for formal clinical review.</p>
+    </div>
+    <div class="standard">
+      <div class="num">II</div>
+      <h3>Surgical Assessment</h3>
+      <p>Our Chief Medical Advisor personally reviews your records and determines the appropriate surgical approach, material selection, and the partner clinic best suited to your case.</p>
+    </div>
+    <div class="standard">
+      <div class="num">III</div>
+      <h3>Plan Presentation</h3>
+      <p>You receive a written treatment plan outlining the proposed approach, timeline, and materials. Only once accepted and travel is confirmed do we finalize clinic and logistics.</p>
+    </div>
+  </div>
+</section>
+
+<section class="content alt">
+  <div class="section-head">
+    <span class="eyebrow">Clinical Standards</span>
+    <h2>What We Require of Our Partner Network</h2>
+    <div class="rule"></div>
+    <p>We evaluate and coordinate cases only with Istanbul clinics that meet defined standards across materials, surgical protocol, and operational continuity.</p>
+  </div>
+
+  <div class="standards-list">
+    <div class="sl-item">
+      <div class="label">Implant Systems</div>
+      <div>
+        <h4>Internationally Recognized Brands Only</h4>
+        <p>Our partner clinics use premium implant systems including Straumann, Nobel Biocare, and equivalent internationally accredited manufacturers with full FDA and CE clearance. Discount implant systems are not coordinated through our network under any circumstances.</p>
+      </div>
+    </div>
+    <div class="sl-item">
+      <div class="label">Prosthetics</div>
+      <div>
+        <h4>Full-Contour Zirconia and Premium Restorations</h4>
+        <p>Final restorations are full-contour zirconia or clinically equivalent materials, selected based on case indication and occlusal demands. We do not coordinate cases involving lower-grade ceramic or rapid-production restorations.</p>
+      </div>
+    </div>
+    <div class="sl-item">
+      <div class="label">Surgical Protocol</div>
+      <div>
+        <h4>Evidence-Based Treatment Planning</h4>
+        <p>All surgical plans are grounded in documented evidence and appropriate imaging, including 3D CBCT assessment when indicated. Bone grafting, sinus augmentation, and zygomatic protocols are planned to established clinical standards.</p>
+      </div>
+    </div>
+    <div class="sl-item">
+      <div class="label">Sterilization</div>
+      <div>
+        <h4>International Sterilization Standards</h4>
+        <p>Partner clinics maintain autoclave sterilization, single-use surgical protocols where applicable, and documented infection control practices. Facility standards are reviewed as part of our network inclusion process.</p>
+      </div>
+    </div>
+    <div class="sl-item">
+      <div class="label">Patient Selection</div>
+      <div>
+        <h4>We Do Not Accept Every Case</h4>
+        <p>Complex full-arch, zygomatic, and advanced bone reconstruction cases require medical clearance and bone density assessment. Patients with contraindicated medical conditions are informed directly — coordinated care is offered only where clinically appropriate.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="content">
+  <div class="section-head">
+    <span class="eyebrow">The Patient Journey</span>
+    <h2>From First Conversation to Final Restoration</h2>
+    <div class="rule"></div>
+    <p>A coordinated pathway designed around clinical continuity, not transactional convenience.</p>
+  </div>
+
+  <div class="journey">
+    <div class="step"><div class="num">01</div><div class="dot"></div><h4>Initial Consultation</h4><p>Confidential inquiry and records collection by your coordinator.</p></div>
+    <div class="step"><div class="num">02</div><div class="dot"></div><h4>Clinical Review</h4><p>Chief Medical Advisor reviews records and defines surgical approach.</p></div>
+    <div class="step"><div class="num">03</div><div class="dot"></div><h4>Treatment Plan</h4><p>Written plan issued; timeline, materials, and approach confirmed.</p></div>
+    <div class="step"><div class="num">04</div><div class="dot"></div><h4>Istanbul Visit</h4><p>Partner clinic assigned; Hilton accommodation and transfers arranged.</p></div>
+    <div class="step"><div class="num">05</div><div class="dot"></div><h4>US Follow-Up</h4><p>Continued evaluation through our US partner practice network.</p></div>
+  </div>
+</section>
+
+<section class="content alt">
+  <div class="section-head">
+    <span class="eyebrow">Continuity of Care</span>
+    <h2>Your Treatment Does Not End in Istanbul</h2>
+    <div class="rule"></div>
+    <p>A coordinated framework connecting your surgical care in Istanbul with ongoing evaluation at US-based partner practices.</p>
+  </div>
+
+  <div class="continuity">
+    <div class="continuity-side">
+      <div class="loc">Istanbul</div>
+      <h3>Surgical Phase</h3>
+      <p>Surgery is performed at your assigned partner clinic under our Chief Medical Advisor's clinical oversight. Patients are accommodated at Hilton Istanbul properties, with private transfers and English-speaking coordination throughout the stay.</p>
+      <p>Post-operative monitoring continues until the patient is medically cleared to travel, with documented handover notes prepared for the US follow-up phase.</p>
+    </div>
+    <div class="continuity-side">
+      <div class="loc">United States</div>
+      <h3>Follow-Up Phase</h3>
+      <p>Upon return, patients are connected with participating US partner practices in the Northeast region for post-operative evaluation, routine monitoring, and — where required — complication management, all in coordination with our clinical team in Istanbul.</p>
+      <p>This integrated framework is central to our philosophy: international treatment without the disconnect of international care.</p>
+    </div>
+  </div>
+</section>
+
+<section class="value-stmt">
+  <div class="value-stmt-inner">
+    <div class="rule"></div>
+    <blockquote>We do not compete on price. We offer a meaningful alternative to US treatment costs — without compromise on surgical quality, material standards, or continuity of care.</blockquote>
+    <cite>— Clinical Philosophy, International Dental Implant Center</cite>
+  </div>
+</section>
+
+<section class="content" id="consultation">
+  <div class="section-head">
+    <span class="eyebrow">Clinical Consultation</span>
+    <h2>Begin Your Case Review</h2>
+    <div class="rule"></div>
+    <p>Your inquiry is reviewed by a clinical coordinator and prepared for assessment by our Chief Medical Advisor. All communication is confidential.</p>
+  </div>
+
+  <div class="consult-wrap">
+    <form id="leadForm" novalidate>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="name">Full Name</label>
+          <input type="text" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label for="phone">Phone / WhatsApp</label>
+          <input type="tel" id="phone" name="phone" required>
+        </div>
+        <div class="form-group">
+          <label for="city">City &amp; State</label>
+          <input type="text" id="city" name="city" placeholder="New York, NY" required>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="treatment">Treatment Interest</label>
+        <select id="treatment" name="treatment" required>
+          <option value="">Please select…</option>
+          <option value="all-on-4">All-on-4</option>
+          <option value="full-arch">Full-Arch Reconstruction</option>
+          <option value="single-implant">Single Tooth Implant</option>
+          <option value="complex">Complex Case — Referred</option>
+          <option value="consultation">Requires Clinical Guidance</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="message">Case Summary <span style="color: var(--muted); font-weight: 400; text-transform: none; letter-spacing: 0;">(optional)</span></label>
+        <textarea id="message" name="message" placeholder="Current dental condition, prior treatments, timeline considerations…"></textarea>
+      </div>
+      <button type="submit" class="btn-navy form-submit">Submit Confidential Inquiry</button>
+      <div class="form-success" id="formSuccess">Your inquiry has been received. A clinical coordinator will respond within one business day.</div>
+      <div class="form-error" id="formError">We were unable to submit your inquiry. Please try again, or contact us directly.</div>
+      <p class="form-note">Information is used solely to prepare your case review. We do not share patient data with third parties.</p>
+    </form>
+  </div>
+</section>
+
+<section class="content alt">
+  <div class="section-head">
+    <span class="eyebrow">Clinical Questions</span>
+    <h2>Answered Directly</h2>
+    <div class="rule"></div>
+    <p>The questions most frequently raised by patients considering coordinated implant care.</p>
+  </div>
+
+  <div class="faq-list">
+    <div class="faq-item">
+      <div class="faq-q">How is clinical quality maintained across the partner network?</div>
+      <div class="faq-a">Every patient case is personally reviewed by our Chief Medical Advisor, a Turkish board-certified Oral &amp; Maxillofacial Surgeon. Partner clinics are evaluated on surgical outcomes, material standards, sterilization protocols, and operational continuity. We do not coordinate cases with clinics outside our accredited network.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">What is the typical treatment timeline for a full-arch case?</div>
+      <div class="faq-a">Most full-arch and All-on-4 cases are completed across two visits. The first, approximately five to seven days, includes surgical placement and temporary prosthesis. The second, scheduled four to six months later following osseointegration, delivers the final prosthetic restoration.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How is post-operative care managed once I return to the US?</div>
+      <div class="faq-a">Through our integrated continuity-of-care program, patients are connected with US-based partner practices in the Northeast for post-operative evaluation, routine follow-up, and complication management if required. This ensures clinical oversight does not end when you leave Istanbul.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Which implant systems and prosthetic materials are used?</div>
+      <div class="faq-a">Our partner clinics use internationally recognized implant systems, including premium brands such as Straumann, Nobel Biocare, and equivalent manufacturers with full FDA and CE clearance. Prosthetic restorations are full-contour zirconia or clinically equivalent materials selected for indication and longevity.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">How is treatment cost determined?</div>
+      <div class="faq-a">After records review and clinical assessment, we issue a written treatment plan with a transparent cost structure specific to your case. We do not publish fixed prices — accurate pricing requires reviewing your actual clinical presentation. All costs are discussed openly before you commit to travel.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">What happens if I decide not to proceed after consultation?</div>
+      <div class="faq-a">The consultation and case review process is non-obligatory. If, after reviewing your treatment plan, you decide not to proceed — for any reason — there is no cost and no pressure. Our coordinators are clinical support, not sales representatives.</div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand">International Dental <span class="mark">Implant Center</span></div>
+      <div class="footer-sub">Est. Istanbul · Serving the Northeast United States</div>
+    </div>
+
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h4>Coordination Office</h4>
+        <p>Yeşilköy<br>Istanbul, Türkiye</p>
+        <p style="margin-top: 12px;">By appointment only</p>
+      </div>
+      <div class="footer-col">
+        <h4>Treatments</h4>
+        <ul>
+          <li><a href="/all-on-4.html">All-on-4</a></li>
+          <li><a href="/full-arch.html">Full-Arch Reconstruction</a></li>
+          <li><a href="/single-implant.html">Single Tooth Implant</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>About</h4>
+        <ul>
+          <li><a href="/about.html">Clinical Leadership</a></li>
+          <li><a href="/process.html">The Patient Journey</a></li>
+          <li><a href="/for-us-practices.html">For US Practices</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="/contact.html">Clinical Consultation</a></li>
+          <li><a href="mailto:contact@internationaldentalimplant.com">contact@internationaldentalimplant.com</a></li>
+          <li><a href="tel:+90XXXXXXXXXX">+90 XXX XXX XXXX</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-disclaimer">
+      <p><strong>Important Notice.</strong> International Dental Implant Center is a dental care coordination service. All dental treatments are performed by independently licensed Turkish dental professionals at partner clinics in Istanbul. Content on this website is for informational purposes and does not constitute medical or dental advice. Individual clinical outcomes vary. Treatment suitability is determined only after formal clinical case review.</p>
+      <p>Our Chief Medical Advisor provides clinical oversight of the partner clinic network and internal case review. Clinical diagnosis and treatment delivery are the responsibility of the treating licensed dental professional at the assigned partner clinic. US follow-up evaluations are provided by independently licensed US dental practices participating in our referral network.</p>
+    </div>
+
+    <div class="footer-bottom">
+      <div>© <span id="year"></span> International Dental Implant Center</div>
+      <div>Yeşilköy · Istanbul · Türkiye</div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="/supabase-config.js"></script>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  const menuToggle = document.getElementById('menuToggle');
+  const navMenu = document.getElementById('navMenu');
+  menuToggle.addEventListener('click', () => navMenu.classList.toggle('open'));
+
+  document.querySelectorAll('.faq-q').forEach(q => {
+    q.addEventListener('click', () => q.parentElement.classList.toggle('open'));
+  });
+
+  const leadForm = document.getElementById('leadForm');
+  const successMsg = document.getElementById('formSuccess');
+  const errorMsg = document.getElementById('formError');
+
+  leadForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    successMsg.style.display = 'none';
+    errorMsg.style.display = 'none';
+
+    const submitBtn = leadForm.querySelector('button[type="submit"]');
+    const originalText = submitBtn.textContent;
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Submitting…';
+
+    const payload = {
+      name: document.getElementById('name').value.trim(),
+      email: document.getElementById('email').value.trim(),
+      phone: document.getElementById('phone').value.trim(),
+      city: document.getElementById('city').value.trim(),
+      treatment_interest: document.getElementById('treatment').value,
+      message: document.getElementById('message').value.trim(),
+      source_page: 'index.html'
+    };
+
+    try {
+      if (typeof supabaseClient === 'undefined') throw new Error('Supabase not initialized');
+      const { error } = await supabaseClient.from('patient_leads').insert([payload]);
+      if (error) throw error;
+      successMsg.style.display = 'block';
+      leadForm.reset();
+    } catch (err) {
+      console.error(err);
+      errorMsg.style.display = 'block';
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = originalText;
+    }
+  });
+</script>
+
+</body>
+</html>
