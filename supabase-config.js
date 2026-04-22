@@ -1,12 +1,9 @@
 // ============================================================
 // INTERNATIONAL DENTAL IMPLANT CENTER — SUPABASE CONFIG
 // ============================================================
-// REPLACE the two values below with your own from:
-// Supabase Dashboard → Settings → API
-// ============================================================
 
-const SUPABASE_URL  = 'https://YOUR-PROJECT-REF.supabase.co';
-const SUPABASE_ANON_KEY = 'YOUR-ANON-PUBLIC-KEY-HERE';
+const SUPABASE_URL  = 'https://xpnmntcmzcszclbutgsu.supabase.co';
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inhwbm1udGNtemNzemNsYnV0Z3N1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY4NTI3MDMsImV4cCI6MjA5MjQyODcwM30.ipSJMxiR63i-BBTKXaDboSeF_VUdXVkdq0x5dSvnAPI';
 
 // ============================================================
 // Initialize Supabase client (available globally as supabaseClient)
